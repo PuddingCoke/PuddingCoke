@@ -1,1 +1,1 @@
-![fourier.gif]
+![](fourier.gif)
