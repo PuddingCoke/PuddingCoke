@@ -1,2 +1,1 @@
-![](fourier.gif)
-Just a college student.
+![](sponza/gi.png)
