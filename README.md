@@ -1,1 +1,1 @@
-![](sponza/output.jpg)
+![](Sponza/output.jpg)
